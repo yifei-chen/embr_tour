@@ -1,7 +1,9 @@
 {
   "name": "ember-quickstart",
   "dependencies": {
+    "bootstrap": "^3.3.6",
     "ember": "~2.8.0",
-    "ember-cli-shims": "0.1.1"
+    "ember-cli-shims": "0.1.1",
+    "firebase": "^3.0.0"
   }
 }
